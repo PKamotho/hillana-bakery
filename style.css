@@ -1,0 +1,102 @@
+
+        *{
+            margin:0;
+            padding:0;
+        }
+        body{
+            background-image:url(cake_background.jpg);
+            background-color:aquamarine;
+            background-position:center;
+            background-size:cover;
+            font-family:sans-serif;
+            margin-top:40px;
+        }
+        .regform{
+            width:800px;
+            margin:auto;
+            color:orangered;
+            padding:10px 0px 10px 0px;
+            text-align:center;
+            border-radius:15px 15px 0px 0px;
+        }
+        .firstname{
+            position:relative;
+            left:20px;
+            top:-37px;
+            line-height:40px;
+            border-radius:6px;
+            padding:0 22px;
+            font-size:16px;
+        }
+        .firstlabel{
+            position:relative;
+            color:white;
+            text-transform:capitalise;
+            font-size:14px;
+            left:92px;
+            top:-66px;
+        }
+        .lastname{
+            position:relative;
+            left:20px;
+            top:-37px;
+            line-height:40px;
+            border-radius:6px;
+            padding:0 22px;
+            font-size:16px;
+            color:#555;
+        }
+        .lastlabel{
+            position:relative;
+            color:white;
+            text-transform:capitalise;
+            font-size:14px;
+            left:92px;
+            top:-66px;
+        }
+        .email{
+            position:relative;
+            left:93px;
+            top:-37px;
+            line-height:40px;
+            width:480px;
+            border-radius:6px;
+            padding:0 22px;
+            font-size:16px;
+            color:orangered;
+        }
+        .location{
+            position:relative;
+            left:13px;
+            top:-37px;
+            line-height:40px;
+            width:80px;
+            border-radius:6px;
+            padding:0 22px;
+            font-size:16px;
+            color:orangered;
+        }
+        .Location{
+            position:relative;
+            color:white;
+            text-transform:capitalise;
+            font-size:16px;
+            left:94px;
+            top:-4px;
+            padding:10px;
+            padding:0 22px;
+        }
+        .name{
+            color: orangered;
+        }
+        .number{
+            padding: 9px;
+            margin-left: 100px;
+            position:relative;
+            color:white;
+            text-transform:capitalise;
+            font-size:16px;
+            left:-17px;
+            top:-20px;
+        }
+        
